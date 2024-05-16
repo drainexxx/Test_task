@@ -7,6 +7,6 @@
 + Скачать и разорхивировать "Тестовое_задание".
 + Запустить файл main_bd.py.
 # Результат
-![](https://github.com/drainexxx/Test_task/blob/main/Результат.png)
+![](https://github.com/drainexxx/Test_task/blob/main/Image/result.png)
 # Примечание
 В планах переключить проект на Postgres.
