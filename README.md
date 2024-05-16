@@ -4,9 +4,9 @@
 + requests
 + sqlite3
 # Подготовка к запуску и запуск проекта локально
-+ Скачать и разорхивировать "Тестовое_задание".
++ Скачать и разархивировать "Тестовое_задание".
 + Запустить файл main_bd.py.
 # Результат
-![](https://github.com/drainexxx/Test_task/blob/main/Результат.png)
+![](https://github.com/drainexxx/Test_task/blob/main/Image/result.png)
 # Примечание
 В планах переключить проект на Postgres.
